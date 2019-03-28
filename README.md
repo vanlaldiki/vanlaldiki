@@ -1,2 +1,1 @@
-# vanlaldiki
-# vanlaldiki
+# vanlaldiki personal webpage (animation)
